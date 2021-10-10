@@ -1,7 +1,9 @@
 # Code Refactor Starter Code
 https://leonlemeshko.github.io/Horiseon/
 
+The screenshot of proof of the site being published is in the images folder under title "Screen Shot 2021".
 
+The pdf of the functioning application/site is also in the images folder titled under "Horiseon.pdf"
 
 
 This code below was the orginal html and css layout:
